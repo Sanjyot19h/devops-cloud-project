@@ -1,2 +1,1 @@
-Welcome to DevOps with Git
-Branching example in Git
+Local Git Repository for DevOps
